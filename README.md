@@ -28,10 +28,12 @@ Key configuration files and commands:
 
 ## 📸 Project Evidence
 
-![Network Interface Configuration](screenshots/ip-config.png)
+<img width="1369" height="327" alt="ip-config" src="https://github.com/user-attachments/assets/93875e1f-1860-43f0-9a44-f62a673e6cb7" />
+
 *Output of `ip addr show` showing successful static IP assignment*
 
-![DHCP Service Status](screenshots/dhcp-status.png)
+<img width="1440" height="667" alt="dhcp-status png" src="https://github.com/user-attachments/assets/925310f0-d154-40fc-9da1-4901ac46573b" />
+
 *DHCP server running actively and listening on the network interface*
 
 ## 🎯 Purpose
